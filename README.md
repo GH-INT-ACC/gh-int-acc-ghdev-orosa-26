@@ -34,7 +34,7 @@ column of the repository's home page.
 - [Lab 10: Create a Release](./labs/10-create-a-release.md)
 - [Lab 11: Deploy to an Environment](./labs/11-deploy-to-an-environment.md)
 
-## Reference
+## Reference doing a minor change
 
 ## Testing changes GitHub features
 
