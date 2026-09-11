@@ -36,5 +36,7 @@ column of the repository's home page.
 
 ## Reference
 
+## Testing changes GitHub features
+
 This repository is a fork of the [2048](https://github.com/gabrielecirulli/2048)
 repository.

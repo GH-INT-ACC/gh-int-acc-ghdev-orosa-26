@@ -18,6 +18,7 @@ export class GameManager {
   /** Start Tiles Count */
   static startTiles: number = 4
 
+
   constructor(size: number) {
     GameManager.size = size
 
